@@ -4,6 +4,7 @@ iOS 11 brings new feature: Smart Invert. You can define what view’s colors can
 
 <img src="https://github.com/ostatnicky/SmartInvert-In-OS11/blob/master/ScreenShot-Normal.png?raw=true" width="280"> <img src="https://github.com/ostatnicky/SmartInvert-In-OS11/blob/master/ScreenShot-ClassicInvert.png?raw=true" width="280"> <img src="https://github.com/ostatnicky/SmartInvert-In-OS11/blob/master/ScreenShot-SmartInvert.png?raw=true" width="280">
 
+First image shows _normal rendering_. On second image is _Classic Invert_. And third screen is in _Smart Invert_.
 
 ## Code Example
 
