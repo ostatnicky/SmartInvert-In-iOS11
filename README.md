@@ -32,6 +32,6 @@ class ViewController: UIViewController {
 
 ## Accessibility Shortcut for Smart Invert
 
-iOS Settings -> General -> Accessibility -> Accessibility Shortcut -> Check Smart Ivert Colors
+iOS Settings -> General -> Accessibility -> Accessibility Shortcut -> Check Smart Invert Colors
 
 After that just triple click to activation.
